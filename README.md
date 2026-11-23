@@ -77,7 +77,4 @@ linear methods.
 
 ---
 
-## THEORY  
 
-With non-linear activations, networks approximate complex decision boundaries 
-(universal approximation). 
